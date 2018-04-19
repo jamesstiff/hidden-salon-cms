@@ -3,10 +3,25 @@ title: Hidden Salon
 subtitle: A creative, relaxed hair salon based in Old Trafford, Manchester
 image: /img/hidden-salon-mirror.jpg
 blurb:
+<<<<<<< HEAD
   heading: Hidden Salon is a creative, relaxed hair salon based in Old Trafford, Manchester.
   text: >-
     Hair by Claire Louise Ryder
 prices:
+=======
+  heading: >-
+    Hidden Salon is a creative, relaxed hair salon based in Old Trafford,
+    Manchester.
+  text: Hair by Claire Louise Ryder
+intro:
+  heading: What we offer
+  text: >-
+    Kaldi is the ultimate spot for coffee lovers who want to learn about their
+    java’s origin and support the farmers that grew it. We take coffee
+    production, roasting and brewing seriously and we’re glad to pass that
+    knowledge to anyone.
+products:
+>>>>>>> fdb3bb261c8f97846a9ccf1a210a43e37b638210
   - image: img/illustrations-coffee.svg
     text: >-
       We sell green and roasted coffee beans that are sourced directly from
